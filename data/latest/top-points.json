@@ -1,0 +1,959 @@
+{
+  "generatedAt": "2026-03-30T05:33:11.425260+00:00",
+  "rankings": {
+    "day1": {
+      "p50": [
+        {
+          "pointId": "IDN_0152S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.5249999999999813
+          ],
+          "value": null,
+          "rank": 1,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0162S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.6249999999999813
+          ],
+          "value": null,
+          "rank": 2,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0182S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -1.8249999999999815
+          ],
+          "value": null,
+          "rank": 3,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0197S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -1.9749999999999817
+          ],
+          "value": null,
+          "rank": 4,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0202S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -2.0249999999999817
+          ],
+          "value": null,
+          "rank": 5,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0212S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -2.1249999999999813
+          ],
+          "value": null,
+          "rank": 6,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0222S_13793E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.92500000000032,
+            -2.224999999999981
+          ],
+          "value": null,
+          "rank": 7,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0227S_13803E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.02500000000035,
+            -2.274999999999981
+          ],
+          "value": null,
+          "rank": 8,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0242S_13818E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.17500000000038,
+            -2.4249999999999803
+          ],
+          "value": null,
+          "rank": 9,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0242S_13823E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.2250000000004,
+            -2.4249999999999803
+          ],
+          "value": null,
+          "rank": 10,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0262S_13833E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.32500000000041,
+            -2.6249999999999796
+          ],
+          "value": null,
+          "rank": 11,
+          "day": "day1",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0267S_13843E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.42500000000044,
+            -2.6749999999999794
+          ],
+          "value": null,
+          "rank": 12,
+          "day": "day1",
+          "metric": "p50"
+        }
+      ],
+      "control": [
+        {
+          "pointId": "IDN_0152S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.5249999999999813
+          ],
+          "value": 14315.71875,
+          "rank": 1,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0162S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.6249999999999813
+          ],
+          "value": 14265.46875,
+          "rank": 2,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0182S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -1.8249999999999815
+          ],
+          "value": 14021.625,
+          "rank": 3,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0197S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -1.9749999999999817
+          ],
+          "value": 13801.34375,
+          "rank": 4,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0202S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -2.0249999999999817
+          ],
+          "value": 13763.875,
+          "rank": 5,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0212S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -2.1249999999999813
+          ],
+          "value": 13692.09375,
+          "rank": 6,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0222S_13793E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.92500000000032,
+            -2.224999999999981
+          ],
+          "value": 13594.625,
+          "rank": 7,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0227S_13803E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.02500000000035,
+            -2.274999999999981
+          ],
+          "value": 13480.1875,
+          "rank": 8,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0242S_13818E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.17500000000038,
+            -2.4249999999999803
+          ],
+          "value": 13360.90625,
+          "rank": 9,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0242S_13823E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.2250000000004,
+            -2.4249999999999803
+          ],
+          "value": 13350.4375,
+          "rank": 10,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0262S_13833E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.32500000000041,
+            -2.6249999999999796
+          ],
+          "value": 13260.8125,
+          "rank": 11,
+          "day": "day1",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0267S_13843E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.42500000000044,
+            -2.6749999999999794
+          ],
+          "value": 13199.84375,
+          "rank": 12,
+          "day": "day1",
+          "metric": "control"
+        }
+      ]
+    },
+    "day2": {
+      "p50": [
+        {
+          "pointId": "IDN_0152S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.5249999999999813
+          ],
+          "value": null,
+          "rank": 1,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0162S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.6249999999999813
+          ],
+          "value": null,
+          "rank": 2,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0182S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -1.8249999999999815
+          ],
+          "value": null,
+          "rank": 3,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0197S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -1.9749999999999817
+          ],
+          "value": null,
+          "rank": 4,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0202S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -2.0249999999999817
+          ],
+          "value": null,
+          "rank": 5,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0212S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -2.1249999999999813
+          ],
+          "value": null,
+          "rank": 6,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0222S_13793E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.92500000000032,
+            -2.224999999999981
+          ],
+          "value": null,
+          "rank": 7,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0227S_13803E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.02500000000035,
+            -2.274999999999981
+          ],
+          "value": null,
+          "rank": 8,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0242S_13818E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.17500000000038,
+            -2.4249999999999803
+          ],
+          "value": null,
+          "rank": 9,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0242S_13823E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.2250000000004,
+            -2.4249999999999803
+          ],
+          "value": null,
+          "rank": 10,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0262S_13833E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.32500000000041,
+            -2.6249999999999796
+          ],
+          "value": null,
+          "rank": 11,
+          "day": "day2",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0267S_13843E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.42500000000044,
+            -2.6749999999999794
+          ],
+          "value": null,
+          "rank": 12,
+          "day": "day2",
+          "metric": "p50"
+        }
+      ],
+      "control": [
+        {
+          "pointId": "IDN_0152S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.5249999999999813
+          ],
+          "value": 12738.53125,
+          "rank": 1,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0162S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.6249999999999813
+          ],
+          "value": 12688.28125,
+          "rank": 2,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0182S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -1.8249999999999815
+          ],
+          "value": 12451.25,
+          "rank": 3,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0197S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -1.9749999999999817
+          ],
+          "value": 12247.09375,
+          "rank": 4,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0202S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -2.0249999999999817
+          ],
+          "value": 12213.3125,
+          "rank": 5,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0212S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -2.1249999999999813
+          ],
+          "value": 12149.59375,
+          "rank": 6,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0222S_13793E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.92500000000032,
+            -2.224999999999981
+          ],
+          "value": 12063.71875,
+          "rank": 7,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0227S_13803E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.02500000000035,
+            -2.274999999999981
+          ],
+          "value": 11964.0625,
+          "rank": 8,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0242S_13818E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.17500000000038,
+            -2.4249999999999803
+          ],
+          "value": 11861.71875,
+          "rank": 9,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0242S_13823E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.2250000000004,
+            -2.4249999999999803
+          ],
+          "value": 11852.59375,
+          "rank": 10,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0262S_13833E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.32500000000041,
+            -2.6249999999999796
+          ],
+          "value": 11774.75,
+          "rank": 11,
+          "day": "day2",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0267S_13843E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.42500000000044,
+            -2.6749999999999794
+          ],
+          "value": 11720.6875,
+          "rank": 12,
+          "day": "day2",
+          "metric": "control"
+        }
+      ]
+    },
+    "day3": {
+      "p50": [
+        {
+          "pointId": "IDN_0152S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.5249999999999813
+          ],
+          "value": null,
+          "rank": 1,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0162S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.6249999999999813
+          ],
+          "value": null,
+          "rank": 2,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0182S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -1.8249999999999815
+          ],
+          "value": null,
+          "rank": 3,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0197S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -1.9749999999999817
+          ],
+          "value": null,
+          "rank": 4,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0202S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -2.0249999999999817
+          ],
+          "value": null,
+          "rank": 5,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0212S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -2.1249999999999813
+          ],
+          "value": null,
+          "rank": 6,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0222S_13793E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.92500000000032,
+            -2.224999999999981
+          ],
+          "value": null,
+          "rank": 7,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0227S_13803E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.02500000000035,
+            -2.274999999999981
+          ],
+          "value": null,
+          "rank": 8,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0242S_13818E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.17500000000038,
+            -2.4249999999999803
+          ],
+          "value": null,
+          "rank": 9,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0242S_13823E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.2250000000004,
+            -2.4249999999999803
+          ],
+          "value": null,
+          "rank": 10,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0262S_13833E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.32500000000041,
+            -2.6249999999999796
+          ],
+          "value": null,
+          "rank": 11,
+          "day": "day3",
+          "metric": "p50"
+        },
+        {
+          "pointId": "IDN_0267S_13843E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.42500000000044,
+            -2.6749999999999794
+          ],
+          "value": null,
+          "rank": 12,
+          "day": "day3",
+          "metric": "p50"
+        }
+      ],
+      "control": [
+        {
+          "pointId": "IDN_0152S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.5249999999999813
+          ],
+          "value": 11516.0625,
+          "rank": 1,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0162S_13788E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8750000000003,
+            -1.6249999999999813
+          ],
+          "value": 11479.9375,
+          "rank": 2,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0182S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -1.8249999999999815
+          ],
+          "value": 11298.40625,
+          "rank": 3,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0197S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -1.9749999999999817
+          ],
+          "value": 11148.5,
+          "rank": 4,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0202S_13778E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.7750000000003,
+            -2.0249999999999817
+          ],
+          "value": 11124.3125,
+          "rank": 5,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0212S_13783E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.8250000000003,
+            -2.1249999999999813
+          ],
+          "value": 11078.96875,
+          "rank": 6,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0222S_13793E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            137.92500000000032,
+            -2.224999999999981
+          ],
+          "value": 11016.0625,
+          "rank": 7,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0227S_13803E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.02500000000035,
+            -2.274999999999981
+          ],
+          "value": 10940.3125,
+          "rank": 8,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0242S_13818E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.17500000000038,
+            -2.4249999999999803
+          ],
+          "value": 10862.5625,
+          "rank": 9,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0242S_13823E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.2250000000004,
+            -2.4249999999999803
+          ],
+          "value": 10856.21875,
+          "rank": 10,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0262S_13833E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.32500000000041,
+            -2.6249999999999796
+          ],
+          "value": 10797.25,
+          "rank": 11,
+          "day": "day3",
+          "metric": "control"
+        },
+        {
+          "pointId": "IDN_0267S_13843E",
+          "label": "Papua",
+          "province": "Papua",
+          "coordinates": [
+            138.42500000000044,
+            -2.6749999999999794
+          ],
+          "value": 10751.65625,
+          "rank": 12,
+          "day": "day3",
+          "metric": "control"
+        }
+      ]
+    }
+  }
+}

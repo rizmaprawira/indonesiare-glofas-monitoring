@@ -1,0 +1,59 @@
+{
+  "day1": {
+    "day": "day1",
+    "label": "Day 1",
+    "leadTimeHours": 24,
+    "metrics": {
+      "control": {
+        "tileUrl": "data/latest/tiles/day1/control/{z}/{x}/{y}.png",
+        "legendUrl": "data/latest/legends/day1-control.json",
+        "gridUrl": "data/latest/grids/day1-control.json",
+        "minZoom": 4,
+        "maxZoom": 8,
+        "tileCount": 740,
+        "dataRange": {
+          "min": 0.0,
+          "max": 14315.71875
+        }
+      }
+    }
+  },
+  "day2": {
+    "day": "day2",
+    "label": "Day 2",
+    "leadTimeHours": 48,
+    "metrics": {
+      "control": {
+        "tileUrl": "data/latest/tiles/day2/control/{z}/{x}/{y}.png",
+        "legendUrl": "data/latest/legends/day2-control.json",
+        "gridUrl": "data/latest/grids/day2-control.json",
+        "minZoom": 4,
+        "maxZoom": 8,
+        "tileCount": 740,
+        "dataRange": {
+          "min": 0.0,
+          "max": 12738.53125
+        }
+      }
+    }
+  },
+  "day3": {
+    "day": "day3",
+    "label": "Day 3",
+    "leadTimeHours": 72,
+    "metrics": {
+      "control": {
+        "tileUrl": "data/latest/tiles/day3/control/{z}/{x}/{y}.png",
+        "legendUrl": "data/latest/legends/day3-control.json",
+        "gridUrl": "data/latest/grids/day3-control.json",
+        "minZoom": 4,
+        "maxZoom": 8,
+        "tileCount": 740,
+        "dataRange": {
+          "min": 0.0,
+          "max": 11516.0625
+        }
+      }
+    }
+  }
+}
